@@ -1,0 +1,16 @@
+Main distro
+===========
+
+[ ] Fix version in README.TXT
+[ ] Fix release date in README.TXT
+[ ] Update version history in README.TXT
+[ ] Update contact information in README.TXT
+
+GEM Setup
+=========
+
+[ ] Fix verion in README.TXT
+[ ] Fix release date in README.TXT
+[ ] Update version history in README.TXT
+[ ] Update contact information in README.TXT
+[ ] Fix version in GSTRINGS.H

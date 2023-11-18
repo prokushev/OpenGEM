@@ -1,0 +1,8 @@
+For installing GEM from something larger than 720k floppies! 
+
+This directory is assumed to contain the contents of one or more disks.
+List their labels below, each exactly 11 characters, surrounded by braces.
+
+{GEM  SCREEN}
+{GEM  SYSTEM}
+{GEM DESKTOP}

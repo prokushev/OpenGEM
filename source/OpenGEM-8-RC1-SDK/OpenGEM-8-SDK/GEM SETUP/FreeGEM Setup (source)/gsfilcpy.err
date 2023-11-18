@@ -1,0 +1,41 @@
+gsfilcpy.c(214): Warning! E1179: Parameter 1, type qualifier mismatch
+gsfilcpy.c(214): Note! I2003: source conversion type is 'char const *'
+gsfilcpy.c(214): Note! I2004: target conversion type is 'void *'
+gsfilcpy.c(214): Note! I2002: 'ADDR' defined in: machine.h(29)
+gsfilcpy.c(216): Warning! E1179: Parameter 1, type qualifier mismatch
+gsfilcpy.c(216): Note! I2003: source conversion type is 'char const *'
+gsfilcpy.c(216): Note! I2004: target conversion type is 'void *'
+gsfilcpy.c(216): Note! I2002: 'ADDR' defined in: machine.h(29)
+gsfilcpy.c(218): Warning! E1179: Parameter 1, type qualifier mismatch
+gsfilcpy.c(218): Note! I2003: source conversion type is 'char const *'
+gsfilcpy.c(218): Note! I2004: target conversion type is 'void *'
+gsfilcpy.c(218): Note! I2002: 'ADDR' defined in: machine.h(29)
+gsfilcpy.c(553): Warning! E1179: Parameter 1, type qualifier mismatch
+gsfilcpy.c(553): Note! I2003: source conversion type is 'char const *'
+gsfilcpy.c(553): Note! I2004: target conversion type is 'char *'
+gsfilcpy.c(553): Warning! E1179: Parameter 2, type qualifier mismatch
+gsfilcpy.c(553): Note! I2003: source conversion type is 'char const *'
+gsfilcpy.c(553): Note! I2004: target conversion type is 'char *'
+gsfilcpy.c(571): Warning! E1179: Parameter 2, type qualifier mismatch
+gsfilcpy.c(571): Note! I2003: source conversion type is 'char const *'
+gsfilcpy.c(571): Note! I2004: target conversion type is 'char *'
+gsfilcpy.c(571): Warning! E1179: Parameter 3, type qualifier mismatch
+gsfilcpy.c(571): Note! I2003: source conversion type is 'char const *'
+gsfilcpy.c(571): Note! I2004: target conversion type is 'char *'
+gsfilcpy.c(571): Warning! E1179: Parameter 4, type qualifier mismatch
+gsfilcpy.c(571): Note! I2003: source conversion type is 'char const *'
+gsfilcpy.c(571): Note! I2004: target conversion type is 'char *'
+gsfilcpy.c(571): Warning! E1179: Parameter 5, type qualifier mismatch
+gsfilcpy.c(571): Note! I2003: source conversion type is 'char const *'
+gsfilcpy.c(571): Note! I2004: target conversion type is 'char *'
+gsfilcpy.c(571): Note! I2002: 'do_patch' defined in: gsfilcpy.c(465)
+gsfilcpy.c(582): Warning! E1179: Parameter 2, type qualifier mismatch
+gsfilcpy.c(582): Note! I2003: source conversion type is 'char const *'
+gsfilcpy.c(582): Note! I2004: target conversion type is 'char *'
+gsfilcpy.c(582): Warning! E1179: Parameter 3, type qualifier mismatch
+gsfilcpy.c(582): Note! I2003: source conversion type is 'char const *'
+gsfilcpy.c(582): Note! I2004: target conversion type is 'char *'
+gsfilcpy.c(582): Warning! E1179: Parameter 4, type qualifier mismatch
+gsfilcpy.c(582): Note! I2003: source conversion type is 'char const *'
+gsfilcpy.c(582): Note! I2004: target conversion type is 'char *'
+gsfilcpy.c(582): Note! I2002: 'fin_copy_echo' defined in: gsfilcpy.c(228)

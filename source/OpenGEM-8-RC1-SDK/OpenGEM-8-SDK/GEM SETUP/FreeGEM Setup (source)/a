@@ -1,0 +1,129 @@
+Open Watcom Build Environment
+Open Watcom C/C++ x86 16-bit Compile and Link Utility
+Version 2.0 beta Oct  3 2021 01:10:21 (64-bit)
+Copyright (c) 2002-2021 The Open Watcom Contributors. All Rights Reserved.
+Portions Copyright (c) 1988-2002 Sybase, Inc. All Rights Reserved.
+Source code is available under the Sybase Open Watcom Public License.
+See http://www.openwatcom.org/ for details.
+	wcc gsmain.c  -0 -bt=dos -ml
+Open Watcom C x86 16-bit Optimizing Compiler
+Version 2.0 beta Oct  3 2021 00:57:46 (64-bit)
+Copyright (c) 2002-2021 The Open Watcom Contributors. All Rights Reserved.
+Portions Copyright (c) 1984-2002 Sybase, Inc. All Rights Reserved.
+Source code is available under the Sybase Open Watcom Public License.
+See http://www.openwatcom.org/ for details.
+gsmain.c: 1163 lines, included 5066, 0 warnings, 0 errors
+	wcc gsnewcfg.c  -0 -bt=dos -ml
+Open Watcom C x86 16-bit Optimizing Compiler
+Version 2.0 beta Oct  3 2021 00:57:46 (64-bit)
+Copyright (c) 2002-2021 The Open Watcom Contributors. All Rights Reserved.
+Portions Copyright (c) 1984-2002 Sybase, Inc. All Rights Reserved.
+Source code is available under the Sybase Open Watcom Public License.
+See http://www.openwatcom.org/ for details.
+gsnewcfg.c: 277 lines, included 3188, 0 warnings, 0 errors
+	wcc gssetup.c  -0 -bt=dos -ml
+Open Watcom C x86 16-bit Optimizing Compiler
+Version 2.0 beta Oct  3 2021 00:57:46 (64-bit)
+Copyright (c) 2002-2021 The Open Watcom Contributors. All Rights Reserved.
+Portions Copyright (c) 1984-2002 Sybase, Inc. All Rights Reserved.
+Source code is available under the Sybase Open Watcom Public License.
+See http://www.openwatcom.org/ for details.
+gssetup.c: 543 lines, included 3188, 0 warnings, 0 errors
+	wcc gsutil.c  -0 -bt=dos -ml
+Open Watcom C x86 16-bit Optimizing Compiler
+Version 2.0 beta Oct  3 2021 00:57:46 (64-bit)
+Copyright (c) 2002-2021 The Open Watcom Contributors. All Rights Reserved.
+Portions Copyright (c) 1984-2002 Sybase, Inc. All Rights Reserved.
+Source code is available under the Sybase Open Watcom Public License.
+See http://www.openwatcom.org/ for details.
+gsutil.c: 130 lines, included 2769, 0 warnings, 0 errors
+	wcc gsfilcpy.c  -0 -bt=dos -ml
+Open Watcom C x86 16-bit Optimizing Compiler
+Version 2.0 beta Oct  3 2021 00:57:46 (64-bit)
+Copyright (c) 2002-2021 The Open Watcom Contributors. All Rights Reserved.
+Portions Copyright (c) 1984-2002 Sybase, Inc. All Rights Reserved.
+Source code is available under the Sybase Open Watcom Public License.
+See http://www.openwatcom.org/ for details.
+gsfilcpy.c(214): Warning! W1179: Parameter 1, type qualifier mismatch
+gsfilcpy.c(214): Note! N2003: source conversion type is 'char const *'
+gsfilcpy.c(214): Note! N2004: target conversion type is 'void *'
+gsfilcpy.c(214): Note! N2002: 'ADDR' defined in: machine.h(29)
+gsfilcpy.c(216): Warning! W1179: Parameter 1, type qualifier mismatch
+gsfilcpy.c(216): Note! N2003: source conversion type is 'char const *'
+gsfilcpy.c(216): Note! N2004: target conversion type is 'void *'
+gsfilcpy.c(216): Note! N2002: 'ADDR' defined in: machine.h(29)
+gsfilcpy.c(218): Warning! W1179: Parameter 1, type qualifier mismatch
+gsfilcpy.c(218): Note! N2003: source conversion type is 'char const *'
+gsfilcpy.c(218): Note! N2004: target conversion type is 'void *'
+gsfilcpy.c(218): Note! N2002: 'ADDR' defined in: machine.h(29)
+gsfilcpy.c(553): Warning! W1179: Parameter 1, type qualifier mismatch
+gsfilcpy.c(553): Note! N2003: source conversion type is 'char const *'
+gsfilcpy.c(553): Note! N2004: target conversion type is 'char *'
+gsfilcpy.c(553): Warning! W1179: Parameter 2, type qualifier mismatch
+gsfilcpy.c(553): Note! N2003: source conversion type is 'char const *'
+gsfilcpy.c(553): Note! N2004: target conversion type is 'char *'
+gsfilcpy.c(571): Warning! W1179: Parameter 2, type qualifier mismatch
+gsfilcpy.c(571): Note! N2003: source conversion type is 'char const *'
+gsfilcpy.c(571): Note! N2004: target conversion type is 'char *'
+gsfilcpy.c(571): Warning! W1179: Parameter 3, type qualifier mismatch
+gsfilcpy.c(571): Note! N2003: source conversion type is 'char const *'
+gsfilcpy.c(571): Note! N2004: target conversion type is 'char *'
+gsfilcpy.c(571): Warning! W1179: Parameter 4, type qualifier mismatch
+gsfilcpy.c(571): Note! N2003: source conversion type is 'char const *'
+gsfilcpy.c(571): Note! N2004: target conversion type is 'char *'
+gsfilcpy.c(571): Warning! W1179: Parameter 5, type qualifier mismatch
+gsfilcpy.c(571): Note! N2003: source conversion type is 'char const *'
+gsfilcpy.c(571): Note! N2004: target conversion type is 'char *'
+gsfilcpy.c(571): Note! N2002: 'do_patch' defined in: gsfilcpy.c(465)
+gsfilcpy.c(582): Warning! W1179: Parameter 2, type qualifier mismatch
+gsfilcpy.c(582): Note! N2003: source conversion type is 'char const *'
+gsfilcpy.c(582): Note! N2004: target conversion type is 'char *'
+gsfilcpy.c(582): Warning! W1179: Parameter 3, type qualifier mismatch
+gsfilcpy.c(582): Note! N2003: source conversion type is 'char const *'
+gsfilcpy.c(582): Note! N2004: target conversion type is 'char *'
+gsfilcpy.c(582): Warning! W1179: Parameter 4, type qualifier mismatch
+gsfilcpy.c(582): Note! N2003: source conversion type is 'char const *'
+gsfilcpy.c(582): Note! N2004: target conversion type is 'char *'
+gsfilcpy.c(582): Note! N2002: 'fin_copy_echo' defined in: gsfilcpy.c(228)
+gsfilcpy.c: 632 lines, included 3188, 12 warnings, 0 errors
+	wcc gsdvinst.c  -0 -bt=dos -ml
+Open Watcom C x86 16-bit Optimizing Compiler
+Version 2.0 beta Oct  3 2021 00:57:46 (64-bit)
+Copyright (c) 2002-2021 The Open Watcom Contributors. All Rights Reserved.
+Portions Copyright (c) 1984-2002 Sybase, Inc. All Rights Reserved.
+Source code is available under the Sybase Open Watcom Public License.
+See http://www.openwatcom.org/ for details.
+gsdvinst.c: 450 lines, included 3188, 0 warnings, 0 errors
+	wcc gsdualfp.c  -0 -bt=dos -ml
+Open Watcom C x86 16-bit Optimizing Compiler
+Version 2.0 beta Oct  3 2021 00:57:46 (64-bit)
+Copyright (c) 2002-2021 The Open Watcom Contributors. All Rights Reserved.
+Portions Copyright (c) 1984-2002 Sybase, Inc. All Rights Reserved.
+Source code is available under the Sybase Open Watcom Public License.
+See http://www.openwatcom.org/ for details.
+gsdualfp.c: 506 lines, included 3188, 0 warnings, 0 errors
+	wcc pcos2.c  -0 -bt=dos -ml
+Open Watcom C x86 16-bit Optimizing Compiler
+Version 2.0 beta Oct  3 2021 00:57:46 (64-bit)
+Copyright (c) 2002-2021 The Open Watcom Contributors. All Rights Reserved.
+Portions Copyright (c) 1984-2002 Sybase, Inc. All Rights Reserved.
+Source code is available under the Sybase Open Watcom Public License.
+See http://www.openwatcom.org/ for details.
+pcos2.c: 915 lines, included 8213, 0 warnings, 0 errors
+	wcc gsnewdev.c  -0 -bt=dos -ml
+Open Watcom C x86 16-bit Optimizing Compiler
+Version 2.0 beta Oct  3 2021 00:57:46 (64-bit)
+Copyright (c) 2002-2021 The Open Watcom Contributors. All Rights Reserved.
+Portions Copyright (c) 1984-2002 Sybase, Inc. All Rights Reserved.
+Source code is available under the Sybase Open Watcom Public License.
+See http://www.openwatcom.org/ for details.
+gsnewdev.c: 687 lines, included 3188, 0 warnings, 0 errors
+	wlink @__wcl__.lnk
+Open Watcom Linker Version 2.0 beta Oct  3 2021 00:52:41 (64-bit)
+Copyright (c) 2002-2021 The Open Watcom Contributors. All Rights Reserved.
+Portions Copyright (c) 1985-2002 Sybase, Inc. All Rights Reserved.
+Source code is available under the Sybase Open Watcom Public License.
+See http://www.openwatcom.org/ for details.
+loading object files
+searching libraries
+creating a DOS executable
